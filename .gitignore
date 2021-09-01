@@ -1,4 +1,4 @@
 ./node_modules
-./filename.pcm
+*.pcm
 ./recordings
 *.json
