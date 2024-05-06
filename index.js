@@ -4,7 +4,7 @@ const { pipeline } = require('stream');
 const fs = require('fs');
 const { opus } = require('@discordjs/opus');
 const bot = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MEMBERS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_VOICE_STATES, Intents.FLAGS.GUILD_PRESENCES] });
-const token = 'ODgxNjE3MDg0NDc0MzQzNDU0.YSvb5A.zua7AGgLuYXoDozoE0LKlX2Ffqg';
+const token = 'TOKEN';
 const Prefix = '|';
 
 let c;
